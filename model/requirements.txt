@@ -1,0 +1,16 @@
+certifi==2020.6.20
+click==7.1.2
+joblib==0.16.0
+mkl-fft==1.1.0
+mkl-random==1.1.1
+mkl-service==2.3.0
+nltk==3.5
+numpy @ file:///C:/ci/numpy_and_numpy_base_1596215850360/work
+olefile==0.46
+Pillow @ file:///C:/ci/pillow_1594298230227/work
+regex==2020.7.14
+six==1.15.0
+torch==1.6.0
+torchvision==0.7.0
+tqdm==4.48.2
+wincertstore==0.2

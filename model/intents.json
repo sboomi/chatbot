@@ -1,0 +1,28 @@
+{"intents" : [
+    {
+        "tag": "greeting",
+        "patterns": ["Hi", "Sup", "How are you?", "How's going?", "Hello"],
+        "responses": ["Hello.", "Greetings, how can I help?", "Hello, try me using some sentences!"],
+        "context_set": ""
+    },
+    {
+        "tag": "goodbye",
+        "patterns": ["Bye", "See you later", "Goodbye", "Have a good day"],
+        "responses": ["Thanks for using our services!", "Goodbye!", "See you later!"],
+        "context_set": ""
+    },
+    {
+        "tag": "programming",
+        "patterns": ["Is programming hard?", "How is your code doing?"],
+        "responses": ["I'm currently on Python. Sometimes it's not as easy as it seems", "Python's kinda tough to handle!"],
+        "context_set": ""
+    },
+    {
+        "tag": "fortune",
+        "patterns": ["Am I going to be successful?", "Will I be lucky?"],
+        "responses": ["I don't think so", "Most likely, says the 8-ball", "Very certainly"],
+        "context_set": ""
+    }
+]
+
+}
